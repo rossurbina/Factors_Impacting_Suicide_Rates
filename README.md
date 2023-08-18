@@ -1,4 +1,4 @@
-# Factors_Impacting_Suicide_Rates
+# Factors Impacting Suicide Rates
 Correlation and Regression Analysis on Factors that Impact Suicide Rates
 
 ## Purpose
