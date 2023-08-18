@@ -59,6 +59,7 @@ This new model gave an average score about -13, which is better than the initial
 
 ## Explore & Gather Data
 I used 3 different databases for this analysis. Below are the links to each data source: 
+
 • [WHO Suicides Rates](https://www.kaggle.com/datasets/szamil/who-suicide-statistics)
 
 • [UNData Country Statistics](https://www.kaggle.com/datasets/sudalairajkumar/undata-country-profiles)
