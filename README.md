@@ -80,7 +80,7 @@ I used 3 different databases for this analysis. Below are the links to each data
 
 • Basic data cleaning (dropped Null or 0 values, removed extra spaces, etc.)
 
-## Data Visualization (Python matplotlib)
+## Data Visualization (Python)
 
 • Used Seaborn to generate various charts to help with correlation analysis (in Jupyter notebook file)
 
