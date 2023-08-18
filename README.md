@@ -13,7 +13,7 @@ I used Python in Jupyter Notebook to clean, transform, and analyze the data. Her
 
 Based on correlation analysis of various factors in our database compared to the suicide rate, I found the most and least correlated items to the suicide rate, shown below. 
 
-![alt text](https://github.com/rossurbina/Factors_Impacting_Suicide_Rates/blob/main/Correlation_chart.png)
+![alt text](https://github.com/rossurbina/Factors_Impacting_Suicide_Rates/blob/main/Correlation_chart.png?raw=true)
 
 **Sex:** Sex has the highest correlation with suicide rates at 43%; men are much more likely to commit suicide than women. Note that the chart shows -43% because it’s looking at values of 1 for women and 0 for men.
 
@@ -31,11 +31,11 @@ Those two factors are the only ones that have strong correlation with suicide ra
 
 Further analysis is done into Age and Gender below since they are very highly correlated with suicide rates. 
 
-![alt text](https://github.com/rossurbina/Factors_Impacting_Suicide_Rates/blob/main/Age_chart.png)
+![alt text](https://github.com/rossurbina/Factors_Impacting_Suicide_Rates/blob/main/Age_chart.png?raw=true)
 
 As the age value increases, the number of suicides also increases. We can take this to mean a country with an aging population is more likely to see higher levels of suicide. The first group (5-14) have hardly any suicides. The middle 4 age groups have steady growth from each category, then there is a large increase to the 75+ bar. Therefore, age is highly correlated with suicide rate, with wide variations between the youngest and oldest group. 
 
-![alt text](https://github.com/rossurbina/Factors_Impacting_Suicide_Rates/blob/main/Sex_chart.png)
+![alt text](https://github.com/rossurbina/Factors_Impacting_Suicide_Rates/blob/main/Sex_chart.png?raw=true)
 
 Shown above, men are almost 4 times more likely to commit suicide than women. Note that this is general data that will be different per country. 
 
