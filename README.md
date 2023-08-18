@@ -12,6 +12,15 @@ I used Python in Jupyter Notebook to clean, transform, and analyze the data. Her
 
 ## Detailed Conclusions
 
+![alt text](https://github.com/rossurbina/Factors_Impacting_Suicide_Rates/blob/main/Correlation_chart.png)
+
+
+
+![alt text](https://github.com/rossurbina/Factors_Impacting_Suicide_Rates/blob/main/Age_chart.png)
+
+
+![alt text](https://github.com/rossurbina/Factors_Impacting_Suicide_Rates/blob/main/Sex_chart.png)
+
 
 
 # Steps to Data Analytics Process
