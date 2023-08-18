@@ -82,5 +82,5 @@ I used 3 different databases for this analysis. Below are the links to each data
 
 ## Data Visualization (Python)
 
-• Used Seaborn to generate various charts to help with correlation analysis (in Jupyter notebook file)
+• Used Seaborn to generate various charts to help with correlation analysis (in [Jupyter notebook file](https://github.com/rossurbina/Factors_Impacting_Suicide_Rates/blob/main/Factors_Impacting_Suicide_Rates.ipynb))
 
